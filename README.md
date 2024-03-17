@@ -8,10 +8,12 @@ process of organizing and managing events of all types. Whether you're planning 
 corporate event, wedding, or any other special occasion, Fiesta Fête has got you covered. With intuitive features 
 and a user-friendly interface, planning your next event has never been easier!
 
+Drive Link to the video of the website : https://drive.google.com/file/d/1FCtsU8bOySthKyigGFthtQYqld9wQhmj/view?usp=sharing
+
 How to Install:
 
 Clone the repository to your local machine using the following command:
-git clone https://github.com/yourusername/fiesta-fete.git](https://github.com/rinisaram/partyplanner.git
+git clone https://github.com/rinisaram/partyplanner.git
 Navigate to the project directory:
 cd fiesta-fete
 Open the index.html file in your web browser to start using Fiesta Fête!
