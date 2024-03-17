@@ -11,7 +11,7 @@ and a user-friendly interface, planning your next event has never been easier!
 How to Install:
 
 Clone the repository to your local machine using the following command:
-git clone https://github.com/yourusername/fiesta-fete.git
+git clone https://github.com/yourusername/fiesta-fete.git](https://github.com/rinisaram/partyplanner.git)
 Navigate to the project directory:
 cd fiesta-fete
 Open the index.html file in your web browser to start using Fiesta Fête!
