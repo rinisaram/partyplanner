@@ -1,0 +1,190 @@
+.abc{
+    background-color: rgb(245, 238,229);
+    color: aliceblue;
+    background-color: antiquewhite;
+    color: #a82ef2;
+    background-color: #9e23eb;
+    background-color: #cd96f0;
+
+}
+body{
+    padding:0;
+    margin:0;
+    background-color:antiquewhite;
+}
+.navbar-1 p4{
+    color:black;
+
+}
+.n-logo h1{
+    color:black;
+
+}
+.container {color: white;}
+.photo{
+ height: 500px;
+  width: 1200px;
+margin: 70px;
+}
+.center{
+position: absolute;
+top: 80%;
+left: 50%;
+font-size: 100px;
+color: #a82ef2;
+font-style: italic;
+}
+.center:hover{
+font-size: 103px;
+transition: 0.3s;
+}
+.bottom-top {
+position: absolute;
+top: 150px;
+left: 1px;
+font-size: 30px;
+padding: 140px;
+font-style: italic;
+}
+.text{
+background-color:#cd96f0;
+height: 130px;
+width:250px;
+border-radius: 50%;
+margin: 40px 30px;
+text-align: center;
+font-size: 30px;
+padding: 17px;
+font-style: italic;
+color: aliceblue;
+}
+
+.info{
+font-size: 35px;
+color: #a82ef2;
+font-style: italic;
+}
+
+.container-1{
+margin: 50px;
+margin-bottom: 50px;
+display: flex;
+justify-content: space-around;
+padding left: 30px;
+}
+.text-2{
+text-align: center;
+font-size: 30px;
+color: #a82ef2;
+}
+.container-3{
+display: flex;
+justify-content: space-around;
+margin: 50px;
+}
+.image1{
+width: 350px;
+margin: 30px;
+
+}
+.image1:hover{
+width: 400px;
+border-radius: 20%;
+transition: 0.3s;
+}
+.paragraph1{
+margin: 30px;
+padding-top: 30px;
+font-size: 30px;
+font-style: italic;
+color: #9e23eb;
+}
+.container-4{
+display: flex;
+justify-content: space-around;
+margin: 50px;
+}
+.image2{
+width: 380px;
+margin: 60px;
+}
+.image2:hover{
+width: 420px;
+border-radius: 20%;
+transition: 0.3s;
+}
+.paragraph2{
+margin: 30px;
+padding-top: 30px;
+font-size: 30px;
+font-style: italic;
+color: #9e23eb;
+padding: 70px;
+
+}
+.text-3{
+text-align: center;
+font-size: 30px;
+color: #a82ef2;
+}
+.container-5{
+display: flex;
+justify-content: center;
+margin: 50px;
+
+}
+.moments{
+width: 300px;
+height: 250px;
+}
+.moments:hover{
+width: 350px;
+transition: 0.3s;
+
+}
+.client{
+text-align: center;
+color: black;
+}
+.feature-card{
+width: 300px;
+background-color: #d7bfe6;
+padding: 10px;
+margin: 10px;
+border-radius: 15px;
+
+
+
+}
+.theme-name{
+font-size: 28px;
+text-align: center;
+color: antiquewhite;
+font-style: italic;
+}
+.theme-main{
+text-align: center;
+color: #a82ef2;
+font-size: 30px;
+
+}
+.boy-theme1{
+width: 50px;
+padding: 25px;
+}
+.feature-main{
+display: flex;
+justify-content: space-around;
+
+}
+.feature-card:hover{
+border-radius: 20%;
+transition: 0.3s;
+}
+.girltheme{
+width: 250px;
+}
+.eldertheme{
+width: 250px;
+height: 250px;
+}
